@@ -1,0 +1,7 @@
+[package]
+name = "mq-nats"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+nats = "0.25.0"
